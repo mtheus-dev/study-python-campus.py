@@ -83,7 +83,7 @@ def numero_pares_impares():
             escreva("Você optou por sair")
 
 #3) Ler um vetor com 12 números reais representando as temperaturas médias de cada mês do ano. Mostrar a maior temperatura, a menor temperatura e em que mês elas ocorreram.
-vetor_temperatura = []
+
 
 #4) Ler um vetor com 10 números inteiros e verificar se existem elementos repetidos. Caso existam, mostrar quais são os números repetidos.
 
