@@ -36,4 +36,5 @@ def erro_2():
         except Exception:
             print("Só aceitamos notas de 0 a 10")
 
-erro_2()
+def erro_3 ():
+    "Um problema comum quando pedir entradas numéricas ocorre quando as pessoas fornecem texto no lugar de números. Ao tentar converter a entrada para um int, você obterá um typeError. Escreva um programa que peça dois números ao usuários. Some-os e mostre o resultado. Capture o typeError caso algum dos valores de entrada não seja um número e apresente uma mensagem de erro simpática. Teste seu programa fornecendo dois números e, em seguida, digite um texto no lugar de um número."
